@@ -1,0 +1,110 @@
+Mirador Del Sur Joaquín Balaguer Park
+
+Mirador Del Sur Joaquín Balaguer Park
+Mirador Sur
+4.7(19,271)
+公园
+Av. Anacaona &, Santo Domingo, 多米尼加共和国
+
+C2RR+RJ 圣多明戈 多米尼加共和国
+
+https://maps.app.goo.gl/cvGCS5qR3JAJubzo6
+
+单景点买.com域名推荐
+
+parquemiradorsur.com
+
+
+
+
+
+
+
+
+你正在用（Next.js开发）
+为一个新景点【 Mirador Del Sur Joaquín Balaguer Park 】构建静态/Next.js 单页指南网站。
+页面只需要支持中文、英文、西班牙文、语言
+
+mirador-del-sur-joaquin-balaguer-park
+Mirador Del Sur Joaquín Balaguer Park
+
+Mirador Del Sur Joaquín Balaguer Park
+Mirador Sur
+4.7(19,271)
+公园
+Av. Anacaona &, Santo Domingo, 多米尼加共和国
+营业时间
+星期二
+08:00–17:00
+星期三
+08:00–17:00
+星期四
+08:00–17:00
+星期五
+08:00–17:00
+星期六
+休息
+星期日
+休息
+星期一
+08:00–17:00
+
++18494058062
+
+C2RR+RJ 圣多明戈 多米尼加共和国
+
+https://maps.app.goo.gl/cvGCS5qR3JAJubzo6
+
+
+首屏背景图要引用以下
+C:\Users\Administrator\Documents\GitHub\多米尼加\mirador-del-sur-joaquin-balaguer-park\public\gallery\
+
+删除原先友情链接，新增以下友情链接
+
+
+圣多明戈国家特区市政府
+https://adn.gob.do/
+多米尼加共和国旅游部
+https://www.mitur.gob.do/
+多米尼加环境与自然资源部
+https://ambiente.gob.do/
+多米尼加体育与休闲部
+https://miderec.gob.do/
+多米尼加官方旅游指南
+https://www.godominicanrepublic.com/
+
+
+
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/cvGCS5qR3JAJubzo6
+页面一共四个链接每一个都需要修改
+	
+照片画廊
+精彩照片
+检查照片名称是否正确并修正
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/cvGCS5qR3JAJubzo6
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/cvGCS5qR3JAJubzo6
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/cvGCS5qR3JAJubzo6
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/cvGCS5qR3JAJubzo6
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+生成一个文件忽略不需要上传的文件
+
+
+
+
+多米尼加共和国总统府
+https://presidencia.gob.do/
+多米尼加政府官方单一门户
+https://www.gob.do/
+
+
+
