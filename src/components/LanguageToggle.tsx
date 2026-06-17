@@ -37,6 +37,9 @@ export default function LanguageToggle() {
 
   const getHref = (targetLocale: string) => {
     const pathWithoutLocale = getCurrentPathWithoutLocale();
+    if (pathWithoutLocale === '/') {
+      return `/${targetLocale}`;
+    }
     return `/${targetLocale}${pathWithoutLocale}`;
   };
 
