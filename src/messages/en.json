@@ -1,0 +1,385 @@
+{
+  "meta": {
+    "title": "Mirador Del Sur Joaquín Balaguer Park | Mirador Sur",
+    "description": "Explore Mirador Del Sur Joaquín Balaguer Park in Santo Domingo, Dominican Republic. A beautiful urban park with spectacular scenery and rich recreational facilities."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Mirador Del Sur Joaquín Balaguer Park",
+    "subtitle": "Mirador Sur · Dominican Republic",
+    "rating": "4.7",
+    "reviewCount": "19,271",
+    "hours": "Urban Park",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Explore Mirador Del Sur Joaquín Balaguer Park",
+    "description": "Mirador Del Sur Joaquín Balaguer Park (also known as Mirador Sur) is located on Av. Anacaona in Santo Domingo, Dominican Republic. It is a beautiful urban park featuring spacious green areas, walking paths, and recreational facilities, making it a favorite leisure spot for both locals and tourists. With its beautiful environment and convenient location, the park has become an important public space in Santo Domingo.",
+    "visitGuide": {
+      "title": "Visiting Tips",
+      "items": [
+        "Park is open Tuesday to Friday and Monday 08:00–17:00",
+        "Park is closed on Saturdays and Sundays, please plan your visit accordingly",
+        "Comfortable walking shoes are recommended",
+        "Bring a camera to capture the park's beauty and city views",
+        "Carry enough water and sunscreen"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Beautiful Green Space: The park features spacious lawns, walking paths, and recreational areas, making it an ideal place to relax.",
+        "Convenient Location: Located in the city center of Santo Domingo with easy access for citizens and tourists.",
+        "Rich Recreational Facilities: Offers various outdoor activities and leisure facilities, suitable for family outings.",
+        "Cultural Value: Named after former Dominican President Joaquín Balaguer, it has significant cultural importance."
+      ]
+    }
+  },
+  "route": {
+    "title": "Tour Route",
+    "overview": "The ideal route to explore Mirador Del Sur Joaquín Balaguer Park:",
+    "steps": [
+      "Enter the park from the main entrance on Av. Anacaona.",
+      "Stroll along the walking paths and enjoy the park's green landscape.",
+      "Rest in the recreational areas and experience the local atmosphere.",
+      "Take photos of the park's beauty and city views."
+    ],
+    "supplementsTitle": "Additional Tour Tips",
+    "supplements": [
+      "It's recommended to visit during the day when the light is best for photography.",
+      "Pay attention to the park's opening hours and avoid visiting on Saturdays and Sundays.",
+      "Please protect the park environment and take your trash with you."
+    ]
+  },
+  "knowledge": {
+    "title": "Discover the Charm of Mirador Del Sur Joaquín Balaguer Park",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Historical Significance",
+        "content": "Mirador Del Sur Joaquín Balaguer Park is named after former Dominican President Joaquín Balaguer and is an important public space and cultural heritage site in Santo Domingo."
+      },
+      {
+        "id": "nature",
+        "title": "Park Landscape",
+        "content": "It features beautiful green landscapes and spacious leisure areas, making it an excellent place to experience Santo Domingo's urban life."
+      },
+      {
+        "id": "experience",
+        "title": "Visiting Experience",
+        "content": "Strolling through Mirador Del Sur Joaquín Balaguer Park, feeling the leisure atmosphere and beautiful scenery of the Dominican capital, is an unforgettable urban park experience."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Mirador Del Sur Joaquín Balaguer Park (Mirador Sur)",
+    "type": "Attraction Type",
+    "typeValue": "Urban Park",
+    "country": "Country",
+    "countryValue": "Dominican Republic",
+    "city": "City",
+    "cityValue": "Santo Domingo",
+    "googleRating": "Google Rating",
+    "address": "Address",
+    "addressValue": "Av. Anacaona &, Santo Domingo, Dominican Republic",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "C2RR+RJ Santo Domingo, Dominican Republic",
+    "phone": "Phone",
+    "phoneValue": "+1 849-405-8062"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "outdoor": "Park Opening Hours",
+    "outdoorTime": "Tuesday to Friday and Monday 08:00–17:00",
+    "lighthouse": "Closed Days",
+    "summer": "Saturdays and Sundays",
+    "summerTime": "Park is closed, not open to the public",
+    "winter": "Recommended Visiting Time",
+    "winterTime": "Morning or early afternoon on Tuesday to Friday and Monday",
+    "warning": "Important Notes",
+    "warningTime": "Recommended to verify latest information before visiting",
+    "tip": "Daytime visits offer the best experience"
+  },
+  "tickets": {
+    "title": "Important Information",
+    "outdoor": "Entrance Fee",
+    "outdoorPrice": "Free admission (subject to on-site confirmation)",
+    "lighthouse": "Parking Information",
+    "adults": "Parking Fee",
+    "adultsPrice": "Please refer to official information",
+    "students": "Other Fees",
+    "studentsPrice": "Please refer to official announcements",
+    "card": "Visitor Services",
+    "cardPrice": "On-site services may be available (recommended to confirm in advance). Directions: 👉 [Go to Mirador Del Sur Joaquín Balaguer Park]",
+    "officialNotice": "For the latest updates on opening hours and related information, please refer to the",
+    "officialNoticeLinkLabel": "Santo Domingo National District City Hall Official Announcement",
+    "officialNoticeLink": "https://adn.gob.do/"
+  },
+  "transport": {
+    "title": "Transportation",
+    "airport": "From the Airport",
+    "airportDesc": "It is relatively close to Santo Domingo Airport. It is recommended to take a taxi or public transportation to the park after arriving in the city.",
+    "selfDrive": "Driving",
+    "selfDriveDesc": "The park is located in the city center of Santo Domingo. It is recommended to use navigation to get there. There may be parking areas nearby.",
+    "bus": "Public Transport",
+    "busDesc": "You can take public transportation in Santo Domingo to near the park, but please pay attention to the schedule.",
+    "intercity": "Walking Tour",
+    "intercityDesc": "There are walking paths in the park, walkable to various areas.",
+    "cycling": "Other Means",
+    "cyclingDesc": "Taxis or driving are recommended, with convenient transportation around the park.",
+    "tips": "Travel Tips",
+    "tipsDesc": "Mirador Del Sur Joaquín Balaguer Park is an excellent place to experience Santo Domingo's urban life. Visiting during daytime with sufficient sunlight is recommended."
+  },
+  "gallery": {
+    "title": "Stunning Photos",
+    "subtitle": "The Charm of Mirador Del Sur Joaquín Balaguer Park",
+    "captions": [
+      "Park panoramic view",
+      "Green landscape",
+      "Recreational area",
+      "Park scenery",
+      "Natural landscape",
+      "Walking paths",
+      "City view",
+      "Park features",
+      "Leisure atmosphere",
+      "Green space",
+      "Park culture",
+      "Full park view",
+      "Leisure style",
+      "Natural traces",
+      "Cultural landscape",
+      "Natural scenery",
+      "Park landscape",
+      "Recreational facilities",
+      "Green environment",
+      "Park beauty",
+      "Urban park",
+      "Leisure space",
+      "Natural style"
+    ],
+    "viewAll": "View more photos on Google Maps",
+    "showAllPhotos": "Show All Photos"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Review information can be viewed via Google Maps (external link).",
+    "moreReviews": "View More Reviews on Google Maps",
+    "items": [
+      {
+        "name": "Carlos Rivera",
+        "date": "2 months ago",
+        "rating": 5,
+        "text": "A place full of natural beauty in the city. The park's greenery is beautiful, highly recommended for all tourists who love leisure walks."
+      },
+      {
+        "name": "María González",
+        "date": "3 weeks ago",
+        "rating": 5,
+        "text": "Amazing urban park. The environment is very beautiful. This is an important public recreational space in Santo Domingo."
+      },
+      {
+        "name": "Juan Pérez",
+        "date": "1 month ago",
+        "rating": 4,
+        "text": "Very interesting place to get close to nature and city life. Daytime visits recommended when the light is best."
+      },
+      {
+        "name": "Ana Torres",
+        "date": "Over 6 months ago",
+        "rating": 5,
+        "text": "An important part of Santo Domingo's urban life. The park's scenery is touching, a must-visit place in the city."
+      },
+      {
+        "name": "Roberto Silva",
+        "date": "2 years ago",
+        "rating": 4,
+        "text": "Great urban park experience. The greenery is wonderful, and there are many city landscapes nearby."
+      },
+      {
+        "name": "Sofía Méndez",
+        "date": "Over 6 months ago",
+        "rating": 5,
+        "text": "Beautiful park, full of the charm of Dominican cities. The scenery is unforgettable, definitely worth a visit."
+      },
+      {
+        "name": "Miguel Herrera",
+        "date": "3 months ago",
+        "rating": 4,
+        "text": "Interesting urban park. Experience local life up close, recommend protecting the environment."
+      },
+      {
+        "name": "Laura Vargas",
+        "date": "1 month ago",
+        "rating": 5,
+        "text": "Urban gem of Santo Domingo. This park is an important place to understand Dominican urban culture, definitely worth experiencing."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Location & Map",
+    "subtitle": "Av. Anacaona &, Santo Domingo, Dominican Republic",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Mirador Del Sur Joaquín Balaguer Park. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official Resources",
+    "officialLinks": {
+      "adn": {
+        "name": "Santo Domingo National District City Hall",
+        "url": "https://adn.gob.do/"
+      },
+      "mitur": {
+        "name": "Ministry of Tourism of Dominican Republic",
+        "url": "https://www.mitur.gob.do/"
+      },
+      "ambiente": {
+        "name": "Ministry of Environment and Natural Resources",
+        "url": "https://ambiente.gob.do/"
+      },
+      "miderec": {
+        "name": "Ministry of Sports and Recreation",
+        "url": "https://miderec.gob.do/"
+      },
+      "godominican": {
+        "name": "Official Dominican Republic Travel Guide",
+        "url": "https://www.godominicanrepublic.com/"
+      }
+    },
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Information We Collect",
+        "content": "We only collect the minimum data necessary to provide our services. This data may include: browsing data (IP address, browser type, visited pages), cookies and similar technologies, and any information you voluntarily provide via contact forms or email."
+      },
+      {
+        "heading": "2. How We Use Your Information",
+        "content": "We use the collected information to: improve website content and user experience, analyze traffic and usage patterns, respond to requests, and comply with our legal obligations."
+      },
+      {
+        "heading": "3. Third-Party Services",
+        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies."
+      },
+      {
+        "heading": "4. Your Rights",
+        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the right to: access your personal data, request correction or deletion, object to processing, and lodge a complaint with a supervisory authority."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+      },
+      {
+        "heading": "2. Use of Content",
+        "content": "All content on this website is for informational purposes only. We are an independent third-party travel information website, not affiliated with any tourist attractions, government agencies, or commercial operators."
+      },
+      {
+        "heading": "3. Accuracy of Information",
+        "content": "We strive to provide accurate and timely information, but we cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Always verify important information through official channels before traveling."
+      },
+      {
+        "heading": "4. Intellectual Property",
+        "content": "The design and original content of this website are protected by copyright. Images are sourced from Unsplash and used under license. The use of Google Maps data complies with Google's terms of service."
+      },
+      {
+        "heading": "5. Limitation of Liability",
+        "content": "This website is provided \"as is\" without any warranties. We are not responsible for any losses resulting from the use of information on this website, including but not limited to travel decisions made based on its content."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Last Updated: June 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "These cookies are essential for the website to function properly and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "They help us understand how visitors interact with our website by collecting anonymous usage data.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Active",
+          "description": "It collects anonymous information about how visitors use our website."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "They are used to show relevant advertisements and measure the effectiveness of ad campaigns.",
+      "items": [
+        {
+          "name": "Personalized Ads",
+          "status": "Inactive",
+          "description": "It can show you relevant ads based on your interests."
+        }
+      ]
+    },
+    "save": "Save Preferences",
+    "saved": "Settings saved!",
+    "preferences": {
+      "items": [
+        {
+          "name": "User Preferences",
+          "status": "Active",
+          "description": "Saves your language preferences and website settings."
+        }
+      ],
+      "title": "Preference Cookies",
+      "description": "They remember your settings, such as language and theme preferences."
+    },
+    "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
+    "rejectAll": "Reject All"
+  },
+  "officialManagement": {
+    "title": "About Mirador Del Sur Joaquín Balaguer Park",
+    "text": "Mirador Del Sur Joaquín Balaguer Park is a famous urban park in Santo Domingo, featuring beautiful green landscapes and rich recreational value. It is managed and maintained by the Santo Domingo National District City Hall."
+  },
+  "historyTimeline": {
+    "title": "Historical Timeline",
+    "items": [
+      {
+        "year": "Early Period",
+        "title": "Early Period: Park Construction",
+        "plaque": "Urban Landscape (Park)",
+        "description": "The construction of Mirador Del Sur Joaquín Balaguer Park aimed to provide a beautiful public recreational space for the citizens of Santo Domingo, and it has long been regarded as an important urban green space by local residents."
+      },
+      {
+        "year": "20th Century",
+        "title": "20th Century: Facility Improvement",
+        "plaque": "Urban Development (Park Construction)",
+        "description": "With the development of Santo Domingo, the park gradually improved its walking paths and recreational facilities, becoming an important place for citizens' leisure and entertainment."
+      },
+      {
+        "year": "21st Century",
+        "title": "21st Century: Urban Landmark",
+        "plaque": "Urban Identity (Public Space)",
+        "description": "Entering the 21st century, with its beautiful environment and convenient location, it has attracted more tourists and become an important urban public space in Santo Domingo."
+      }
+    ],
+    "guideTitle": "Visitor Guide Tip",
+    "guideContent": "When visiting, you can enter the park from the main entrance on Av. Anacaona; then stroll through the park and enjoy the green landscape and leisure atmosphere; if you have enough time, you can rest in the recreational areas and experience the local urban life. Finally, explore the urban scenery of Santo Domingo around the park and feel the charm of the Dominican capital."
+  }
+}
