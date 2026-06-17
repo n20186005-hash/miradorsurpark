@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Mirador Del Sur Joaquín Balaguer Park | 米拉多尔德尔苏尔华金巴拉格尔公园",
-    "description": "探索位于多米尼加共和国圣多明戈的 Mirador Del Sur Joaquín Balaguer Park（米拉多尔德尔苏尔华金巴拉格尔公园）。这是一个美丽的城市公园，拥有壮观的景色和丰富的休闲设施。"
+    "title": "Parque Mirador Sur (Mirador Del Sur Joaquín Balaguer Park) | 圣多明戈的城市绿肺与天然海景台",
+    "description": "探索 Parque Mirador Sur，圣多明戈首个大型生态休闲公园。建于石灰岩悬崖高台之上，可俯瞰加勒比海风光，地下隐藏天然溶洞，是体验自然与城市文化交融的绝佳去处。"
   },
   "header": {
     "home": "首页",
@@ -11,50 +11,48 @@
     "backToHome": "返回首页"
   },
   "hero": {
-    "title": "Mirador Del Sur Joaquín Balaguer Park",
-    "subtitle": "米拉多尔德尔苏尔华金巴拉格尔公园 · 多米尼加",
+    "title": "Parque Mirador Sur (Mirador Del Sur Joaquín Balaguer Park)",
+    "subtitle": "圣多明戈的城市绿肺与天然海景台",
     "rating": "4.7",
     "reviewCount": "19,271",
-    "hours": "城市公园",
+    "hours": "城市公园 / 自然休闲区",
     "openMaps": "查看位置"
   },
   "intro": {
-    "title": "探索 Mirador Del Sur Joaquín Balaguer Park",
-    "description": "Mirador Del Sur Joaquín Balaguer Park（简称 Mirador Sur）位于多米尼加共和国圣多明戈的 Av. Anacaona 大道。这是一个美丽的城市公园，拥有宽敞的绿地、步行道和休闲设施，是当地居民和游客喜爱的休闲场所。公园以其优美的环境和便利的地理位置，成为圣多明戈重要的公共空间。",
+    "title": "探索 Parque Mirador Sur",
+    "description": "Mirador Del Sur Joaquín Balaguer Park（常被当地人简称为 Mirador Sur）是圣多明戈首个大型生态休闲公园，于1970年落成。公园巧妙地建于巨大的石灰岩悬崖高台之上，不仅拥有葱郁的绿地和茂密的植被，还能让游客在此俯瞰壮丽的加勒比海（Caribbean Sea）风光。\n\n这里不仅是多米尼加首都重要的公共空间，其地下更隐藏着错综复杂的天然溶洞网络，部分洞穴甚至被改造成了极具特色的顶级餐厅，是体验圣多明戈自然与城市文化交融的绝佳去处。",
     "visitGuide": {
       "title": "游览建议",
       "items": [
-        "公园开放时间为周二至周五及周一 08:00–17:00",
-        "周六和周日公园休息，请注意安排行程",
-        "建议穿着舒适的步行鞋",
-        "带上相机拍摄公园美景和城市风光",
-        "携带足够的水和防晒用品"
+        "公园官方管理处开放时间为周一至周五 08:00–17:00",
+        "周六和周日官方管理处休息，但作为开放式城市空间可正常游览",
+        "著名的“健康大道”在清晨和周末是跑步和骑行的好去处",
+        "建议携带宠物并使用牵引绳，注意清理排泄物",
+        "探索天然石灰岩溶洞，欣赏加勒比海绝美风光"
       ]
     },
     "alsoKnownAs": {
-      "title": "核心亮点",
+      "title": "核心亮点与设施",
       "items": [
-        "优美的绿色空间：公园拥有宽敞的草坪、步道和休闲区域，是放松身心的理想场所。",
-        "便利的地理位置：位于圣多明戈市中心区域，交通便利，方便市民和游客前往。",
-        "丰富的休闲设施：提供多种户外活动和休闲设施，适合全家出游。",
-        "文化价值：以多米尼加前总统华金·巴拉格尔命名，具有重要的文化意义。"
+        "🐾 宠物友好 (Pet-Friendly)：公园欢迎游客携带狗狗入内，宽阔的草坪是宠物奔跑的理想场所。（建议使用牵引绳并随手清理排泄物）",
+        "🏃‍♂️ 健康大道 (Av. de la Salud)：在每天特定的清晨和傍晚时段，部分路段会限制机动车通行，专为慢跑者、骑行者和轮滑爱好者开放。",
+        "🧗 天然石灰岩溶洞：探索悬崖底部的独特地质构造，感受加勒比海岛国独特的地形魅力。",
+        "🌊 加勒比海全景：漫步于高台步道，享受无遮挡的绝美海景，是拍摄日落与城市天际线的绝佳机位。"
       ]
     }
   },
   "route": {
-    "title": "游览路线",
-    "overview": "探索 Mirador Del Sur Joaquín Balaguer Park 的理想路线：",
+    "title": "建议游览路线",
+    "overview": "探索 Parque Mirador Sur 的推荐路线：",
     "steps": [
-      "从 Av. Anacaona 主入口进入公园。",
-      "沿着步道漫步，欣赏公园的绿化景观。",
-      "在休闲区域休息，感受当地的生活氛围。",
-      "拍摄公园美景和城市风光的合影。"
+      "清晨活力路线：从 Av. Anacaona 侧的主入口进入 👉 带着您的爱犬在草坪漫步 👉 沿着高台步道欣赏加勒比海晨景 👉 在健康大道与当地市民一起体验晨跑氛围。",
+      "午后休闲路线：下午抵达公园 👉 探索悬崖周边的自然景观与雕塑 👉 在休闲区域野餐 👉 傍晚时分前往公园周边的洞穴餐厅体验独特的加勒比美食。"
     ],
     "supplementsTitle": "游览补充建议",
     "supplements": [
-      "建议白天前往，此时光线最好，适合拍摄照片。",
-      "注意公园的开放时间，避免周六和周日前往。",
-      "请爱护公园环境，带走自己的垃圾。"
+      "由于地势较高，部分区域风力较大，建议做好防风措施。",
+      "如果是周末前往，周边官方服务设施可能暂停营运，请提前准备好饮用水。",
+      "溶洞餐厅需要提前预订，建议提早安排行程。"
     ]
   },
   "knowledge": {
@@ -78,35 +76,39 @@
     ]
   },
   "basicInfo": {
-    "title": "基础信息",
+    "title": "核心标签 (Quick Facts)",
     "officialName": "正式名称",
-    "officialNameValue": "Mirador Del Sur Joaquín Balaguer Park（米拉多尔德尔苏尔华金巴拉格尔公园）",
+    "officialNameValue": "Parque Mirador Sur (Mirador Del Sur Joaquín Balaguer Park)",
     "type": "景点类型",
-    "typeValue": "城市公园",
+    "typeValue": "城市公园 / 自然休闲区",
     "country": "国家",
     "countryValue": "多米尼加共和国",
     "city": "城市",
     "cityValue": "圣多明戈",
     "googleRating": "谷歌评分",
-    "address": "地址",
+    "address": "位置",
     "addressValue": "Av. Anacaona &, Santo Domingo, 多米尼加共和国",
     "plusCode": "Plus 代码",
-    "plusCodeValue": "C2RR+RJ 圣多明戈 多米尼加共和国",
-    "phone": "联系电话",
-    "phoneValue": "+1 849-405-8062"
+    "plusCodeValue": "C2RR+RJ",
+    "phone": "官方联系电话",
+    "phoneValue": "+1 849-405-8062",
+    "petFriendly": "宠物准入",
+    "petFriendlyValue": "允许带狗（宠物友好型公园）",
+    "tickets": "门票信息",
+    "ticketsValue": "免费开放"
   },
   "hours": {
-    "title": "开放时间",
-    "outdoor": "公园开放时间",
-    "outdoorTime": "星期二至星期五及星期一 08:00–17:00",
+    "title": "开放时间与游览建议 (Visitor Info)",
+    "outdoor": "官方管理处",
+    "outdoorTime": "周一至周五：08:00 – 17:00",
     "lighthouse": "休息日",
-    "summer": "周六和周日",
-    "summerTime": "公园休息，不对外开放",
-    "winter": "建议游览时间",
-    "winterTime": "周二至周五及周一的上午或下午早些时候",
-    "warning": "重要提示",
-    "warningTime": "建议在参观前核实最新信息",
-    "tip": "白天前往可获得最佳的参观体验"
+    "summer": "周六及周日",
+    "summerTime": "管理处及部分官方服务设施休息",
+    "winter": "游览提示",
+    "winterTime": "作为大型开放式城市空间，公园依然可以享受自然绿地",
+    "warning": "💡 本地人贴士 (Local Insider Tip)",
+    "warningTime": "虽然谷歌地图显示的官方营业时间在周末关闭且仅限白天，但 Mirador Sur 作为一个大型开放式城市空间，其著名的“健康大道”（Avenida de la Salud）在清晨和周末依然是当地市民跑步、骑行和遛狗的黄金地段。如果您计划在周末前往，依然可以享受公园的自然绿地，但请注意周边官方服务设施可能暂停营运。",
+    "tip": "清晨和傍晚是游览的最佳时段，尤其是漫步高台步道欣赏海景。"
   },
   "tickets": {
     "title": "注意事项",
@@ -358,25 +360,25 @@
     "text": "Mirador Del Sur Joaquín Balaguer Park 是圣多明戈的著名城市公园，拥有优美的绿化景观和丰富的休闲价值，由圣多明戈国家特区市政府管理与运营维护。"
   },
   "historyTimeline": {
-    "title": "历史变迁时间线",
+    "title": "发展与地质特征",
     "items": [
       {
-        "year": "早期",
-        "title": "早期：公园建设",
-        "plaque": "城市景观（公园）",
-        "description": "Mirador Del Sur Joaquín Balaguer Park 的建设旨在为圣多明戈市民提供一个优美的公共休闲空间，长期以来被当地居民视为重要的城市绿地。"
+        "year": "1970年",
+        "title": "1970年：公园落成",
+        "plaque": "首个大型生态公园",
+        "description": "Mirador Del Sur Joaquín Balaguer Park 是圣多明戈首个大型生态休闲公园，于1970年落成，旨在为市民提供优美的公共休闲空间。"
       },
       {
-        "year": "20世纪",
-        "title": "20世纪：设施完善",
-        "plaque": "城市发展（公园建设）",
-        "description": "随着圣多明戈城市的发展，公园逐渐完善了步行道和休闲设施，成为市民休闲娱乐的重要场所。"
+        "year": "地质特征",
+        "title": "石灰岩悬崖高台",
+        "plaque": "独特的地理位置",
+        "description": "公园巧妙地建于巨大的石灰岩悬崖高台之上，不仅拥有葱郁的绿地和茂密的植被，还能让游客在此俯瞰壮丽的加勒比海风光。"
       },
       {
-        "year": "21世纪",
-        "title": "21世纪：城市地标",
-        "plaque": "城市标识（公共空间）",
-        "description": "进入21世纪，这里凭借优美的环境和便利的地理位置，吸引了更多游客，成为圣多明戈重要的城市公共空间。"
+        "year": "地下景观",
+        "title": "天然溶洞网络",
+        "plaque": "自然与城市交融",
+        "description": "公园地下隐藏着错综复杂的天然溶洞网络，部分洞穴甚至被改造成了极具特色的顶级餐厅，是体验多米尼加独特地形魅力的绝佳去处。"
       }
     ],
     "guideTitle": "游客导览建议",

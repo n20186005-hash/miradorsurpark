@@ -93,7 +93,11 @@
     "plusCode": "Código Plus",
     "plusCodeValue": "C2RR+RJ Santo Domingo, República Dominicana",
     "phone": "Teléfono",
-    "phoneValue": "+1 849-405-8062"
+    "phoneValue": "+1 849-405-8062",
+    "petFriendly": "Mascotas permitidas",
+    "petFriendlyValue": "Se admiten perros (Parque que admite mascotas)",
+    "tickets": "Entradas",
+    "ticketsValue": "Entrada gratuita"
   },
   "hours": {
     "title": "Horarios de Apertura",
